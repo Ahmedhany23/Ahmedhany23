@@ -4,8 +4,7 @@
 <p>🚀 Passionate developer seeking collaborative projects! </p>
 <p>📫 How to reach me</p>
 <p>Email: ahmedhany.22@hotmail.com</p>
-</br>
-Linkedin: <a href="https://www.linkedin.com/in/ahmed-hany-a79740216/"> Ahmed Hany</a>
+<p>Linkedin: <a href="https://www.linkedin.com/in/ahmed-hany-a79740216/"> Ahmed Hany</a></p>
 <!--
 **Ahmedhany23/Ahmedhany23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
