@@ -5,7 +5,7 @@
 <p>📫 How to reach me</p>
 <p>Email: <a href="mailto:ahmedhany.22@hotmail.com">ahmedhany.22@hotmail.com</a></p>
 <p>Linkedin: <a href="https://www.linkedin.com/in/ahmed-hany-a79740216/"> Ahmed Hany</a></p>
-<p>My Portfolio: <a href="[https://www.linkedin.com/in/ahmed-hany-a79740216/](https://ahmedhanyportfolio.netlify.app/)"> Portfolio </p>
+<p>My Portfolio: <a href="https://ahmedhanyportfolio.netlify.app/"> Portfolio </p>
 <!--
 **Ahmedhany23/Ahmedhany23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
