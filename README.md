@@ -1,6 +1,6 @@
 
 <h1>👋 Hi, I’m Ahmed Hany</h1>
-<p>👀 I’m interested in Full Stack Development</p>
+<p>👀 I’m interested in FrontEnd Web Development</p>
 <p>🚀 Passionate developer seeking collaborative projects! </p>
 <p>📫 How to reach me</p>
 <p>Email: <a href="mailto:ahmedhany.22@hotmail.com">ahmedhany.22@hotmail.com</a></p>
