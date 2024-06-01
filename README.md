@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.upwork.com/freelancers/~0106d0afb216f5bc5d?mp_source=share" target="blank"><img align="center" src="https://www.iconduck.com/icons/14244/upwork?shared" alt="https://www.upwork.com/Ahmed" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0106d0afb216f5bc5d?mp_source=share" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-512.png" alt="https://www.upwork.com/Ahmed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-hany-a79740216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hany-a79740216/" height="30" width="40" /></a>
 </p>
   
