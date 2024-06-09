@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmedhany23.Ahmedhany23" />
 <h1>👋 Hi, I’m Ahmed Hany</h1>
