@@ -24,11 +24,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+    <!-- From skillicons -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,tailwind,html,css,js,ts,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
+    <br/><br/>
+    <!-- Custom shields for tools not in skillicons -->
+    <img src="https://img.shields.io/badge/Zustand-🐻-green?style=for-the-badge" alt="Zustand"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+    <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/>
+    <img src="https://img.shields.io/badge/Zod-Validation-blue?style=for-the-badge" alt="Zod"/>
+    <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
 </div>
-  <br/>
-<hr/>
 
 
 
